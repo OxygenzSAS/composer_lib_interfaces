@@ -1,5 +1,5 @@
 {
-    "name": "oxygenzsas/interfaces",
+    "name": "oxygenzsas/composer_lib_interfaces",
     "description": "Composer collection d'interface pour mon framework",
     "license": "MIT",
     "keywords": ["interfaces"],
